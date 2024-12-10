@@ -1,0 +1,11 @@
+body {
+  background-color: var(--dark-red);
+  color: var(--white);
+  font-family: var(--fontFamily);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5;
+  overflow:overlay;
+  height: 1200vh;
+  width: 1728px;
+}
