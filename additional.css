@@ -421,6 +421,19 @@ body {
 .break4{
   position: absolute;
   top: 3600px;
+  width: 1500px;
+
+  
+  transform: translate (-50%, -50%);
+  font-size: 35px; 
+  font-family: var(--fontFamily-bad);
+}
+
+.break42{
+  position: absolute;
+  top: 4300px;
+  width: 1500px;
+
   
   transform: translate (-50%, -50%);
   font-size: 35px; 
